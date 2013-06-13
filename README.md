@@ -4,7 +4,7 @@ Shiver
 > Be in the know when your favorite streamers go live on Twitch, right in your
 menu bar.
 
-Shiver was created to scrach an itch. Twich has some features that might be cool
+Shiver was created to scratch an itch. Twitch has some features that might be cool
 to some when it comes to being notified of when streams go live, like email. But
 that's tough, because I hate email notifications. Likewise, their iOS
 application has a good (albiet janky at times) push notification experience, but
